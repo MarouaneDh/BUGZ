@@ -1,0 +1,17 @@
+ul {
+  display: flex;
+  width: 800px;
+  justify-content: space-around;
+}
+li {
+  list-style: none;
+}
+nav a {
+  text-decoration: none;
+  color: white;
+}
+nav {
+  display: flex;
+  justify-content: center;
+  color: white;
+}

@@ -1,0 +1,37 @@
+.card {
+  margin-bottom: 25px;
+}
+.card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.card-body {
+  background-color: rgb(214, 197, 197);
+}
+
+.pagination {
+  display: flex;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+span {
+  margin: 10px;
+}
+.btn,
+.page-link {
+  text-decoration: none;
+  color: black;
+  border: black solid 1px;
+  margin: 3px;
+}
+.progress-bar-striped {
+  text-align: center;
+  font-size: 17px;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
